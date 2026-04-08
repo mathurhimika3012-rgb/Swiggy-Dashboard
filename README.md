@@ -7,8 +7,8 @@ This project is an interactive Excel dashboard built to analyze Swiggy sales dat
 ---
 
 📷 Dashboard Preview
+![Dashboard](IMG-20260408-WA0014.jpg)
 
-[Dashboard](dashboard.png)
 
 ---
 
@@ -43,7 +43,7 @@ This project is an interactive Excel dashboard built to analyze Swiggy sales dat
 - Observed sales trends over time
 - Evaluated business performance using KPIs
 
----9
+---
 
 🎯 Use Case
 
