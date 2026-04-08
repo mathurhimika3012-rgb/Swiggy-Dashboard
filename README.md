@@ -1,5 +1,5 @@
 📊 Swiggy Sales Dashboard (Excel)
-📥 Download Excel File: [Click Here](Swiggy Dashboard.xlsx)
+📥 Download Excel File: [Download Dashboard](./Swiggy%20Dashboard.xlsx)
 
 📌 Overview
 
