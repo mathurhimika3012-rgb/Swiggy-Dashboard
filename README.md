@@ -1,6 +1,5 @@
 📊 Swiggy Sales Dashboard (Excel)
-📥 Download Excel File: [Download Dashboard](./Swiggy%20Dashboard.xlsx)
-
+📥 Download Excel File: [Download Dashboard](httyps://raw.githubusercontent.com/mathurhimika3012-rgb/Swiggy-Dashboard/main/Swiggy%20Dashboard.xlsx)
 📌 Overview
 
 This project is an interactive Excel dashboard built to analyze Swiggy sales data. It provides insights into sales performance, customer behavior, and business trends using data visualization techniques.
